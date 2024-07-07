@@ -1,9 +1,9 @@
-<center><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lramx1OWJrM3A3M21pYjNra2V3M3Z6dDJiaWZzYm01eGIzNzh4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="100"/></center>
-
 ![Banner de Javier Montoya](banner.png)
 
-# ¡Bienvenidos a mi perfil!
-Soy Javier Montoya, fullstack developer 💻. Enfocado en siempre hacer que los proyectos funcionen de la manera más optima 📈 y buscando la menara de innovar con la creación ⚙️ y el mejoramiento de nueva funcionalidad.
+# ¡Bienvenidos a mi perfil! 
+Soy Javier Montoya, fullstack developer 💻. Enfocado en siempre hacer que los proyectos funcionen de la manera más optima 📈 y buscando la menara de innovar con la creación ⚙️ y el mejoramiento de nueva funcionalidad. 
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lramx1OWJrM3A3M21pYjNra2V3M3Z6dDJiaWZzYm01eGIzNzh4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="100"/>
 
 ## Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
